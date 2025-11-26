@@ -1,0 +1,1 @@
+ALTER TABLE "users" RENAME COLUMN "roll" TO "role";
